@@ -1,16 +1,8 @@
 class script(object):
-    START_TXT = """Yo...Yo...ANURAG {} 💖
-I'm Powerful Auto-Filter Bot You Can Use Me As A Auto-filter in Your Group
-
-Its Easy To Use Me; Just Add Me To Your Group As Admin, 
-Thats All, i will Provide Movies There...🤓🤪
-
-
-⚠️More Help Check Help Button Below
-
-😎 Powered by @MOVIES_ZILAA
-
-©️ Maintained By @GuruBhai11"""
+    START_TXT = """
+👋𝖧𝖾𝗒  {}, Iam <a href="t.me/veerappan_bbot">Veerappan BoT</a>
+🙂I am the BoT who serves all movie files in <a href="https://t.me/MoveWilla1">Movie Willa</a>
+"""
     HELP_TXT = """
     🙋🏻‍♂️   Hellooo  {} 🤓
     
