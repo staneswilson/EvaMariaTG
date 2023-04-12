@@ -25,7 +25,7 @@ PICS = ('https://upload.wikimedia.org/wikipedia/en/f/fc/VeerappanImg.jpg https:/
 
 # Admins, Channels & Users
 ADMINS = [5216689081]
-CHANNELS = ['movewilla1']
+CHANNELS = ['okfiles']
 AUTH_USERS = [5216689081]
 AUTH_CHANNEL = None
 AUTH_GROUPS = ['movewilla1']
