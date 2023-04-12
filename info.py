@@ -21,6 +21,7 @@ USERBOT_STRING_SESSION = ''
 # Bot settings
 CACHE_TIME = 300
 USE_CAPTION_FILTER = False
+PICS = ('https://upload.wikimedia.org/wikipedia/en/f/fc/VeerappanImg.jpg https://imgnew.outlookindia.com/public/uploads/articles/2017/2/4/veerappan_021223.jpg https://cdn.dnaindia.com/sites/default/files/styles/full/public/2016/05/18/461686-veerappan.jpg').split()
 
 # Admins, Channels & Users
 ADMINS = [5216689081]
