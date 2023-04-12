@@ -30,7 +30,7 @@ AUTH_USERS = [5216689081]
 AUTH_CHANNEL = None
 AUTH_GROUPS = ['movewilla1']
 auth_grp = AUTH_GROUPS
-auth_channel = AUTH_CHANNELS
+auth_channel = AUTH_CHANNEL
 
 # MongoDB information
 DATABASE_URI = "mongodb+srv://veerappan:veerappan@cluster0.rtmxppr.mongodb.net/?retryWrites=true&w=majority"
