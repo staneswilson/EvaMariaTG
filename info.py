@@ -44,7 +44,7 @@ SINGLE_BUTTON = True
 IMDB = True
 CUSTOM_FILE_CAPTION = "<b>🍿{file_name}\n💿Size:</b> {file_size}\n\n<b>🔥Join Our Main Channel🔥</b>\nhttps://t.me/+zoNJaYoQi6E5MGZl"
 BATCH_FILE_CAPTION = "<b>🍿{file_name}\n💿Size:</b> {file_size}\n\n<b>🔥Join Our Main Channel🔥</b>\nhttps://t.me/+zoNJaYoQi6E5MGZl"
-IMDB_TEMPLATE = "📺𝖳𝗂𝗍𝗅𝖾: <a href={url}>{title}</a> | {year} \n⭐️ 𝖱𝖺𝗍𝗂𝗇𝗀𝗌: {rating}/ 10 \n🎭 𝖦𝖾𝗇𝖾𝗋𝗌: {genres}
+IMDB_TEMPLATE = "📺𝖳𝗂𝗍𝗅𝖾: <a href={url}>{title}</a> | {year} \n⭐️ 𝖱𝖺𝗍𝗂𝗇𝗀𝗌: {rating}/ 10 \n🎭 𝖦𝖾𝗇𝖾𝗋𝗌: {genres}"
 SPELL_CHECK_REPLY = True
 MAX_LIST_ELM = None
 INDEX_REQ_CHANNEL = LOG_CHANNEL
